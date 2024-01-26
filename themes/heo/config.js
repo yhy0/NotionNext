@@ -9,6 +9,10 @@ const CONFIG = {
       { title: '全新版本的 Jie 已经更新', url: 'https://github.com/yhy0/Jie' }
     ],
   
+    // 英雄区左右侧组件颠倒位置
+    HEO_HERO_REVERSE: false,
+    // 博客主体区左右侧组件颠倒位置
+    HEO_HERO_BODY_REVERSE: false,
     // 英雄区(首页顶部大卡)
     HEO_HERO_TITLE_1: '修道之初，谁不想当剑仙',
     HEO_HERO_TITLE_2: '',
