@@ -25,6 +25,8 @@ const CONFIG = {
   HEO_HERO_TITLE_5: 'Jie:一款全面而强大的漏洞扫描和利用工具。(愿景) 挖洞辅助助手',
   HEO_HERO_TITLE_LINK: 'https://github.com/yhy0/Jie',
   
+  // 英雄区遮罩文字
+  HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '开源工具', url: '/tag/开源工具' },
